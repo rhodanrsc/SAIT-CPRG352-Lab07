@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+    background-color: #353839;
+    color: white;
+}
+
+div {
+    display: inline-block;
+    margin: 20px;
+}
+
+table {
+    border: white, solid, 1px;
+}
